@@ -268,12 +268,12 @@ h1.lib {
     color: #242426;
     font-size: 18px;
     position: relative;
-    bottom: 45px;
+    bottom: 50px;
 }
 
 .library div span {
     position: relative;
-    bottom: 40px;
+    bottom: 45px;
     right: 65px;
     color: #2638c3;
     font-weight: 600;
@@ -508,4 +508,5 @@ footer div.hover  {
     margin-bottom: 0;
 
 }
+
 
