@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 
-
+ 
 .hero {
     height: 100vh;
     background: url('images/back.jpg') center/cover no-repeat;
@@ -268,12 +268,12 @@ h1.lib {
     color: #242426;
     font-size: 18px;
     position: relative;
-    bottom: 50px;
+    bottom: 46px;
 }
 
 .library div span {
     position: relative;
-    bottom: 45px;
+    bottom: 42px;
     right: 65px;
     color: #2638c3;
     font-weight: 600;
@@ -479,8 +479,17 @@ section.place {
         right: 10px;
         border-radius: 6px;
     }
+
+
+    .library div p{
+        position: relative;
+        bottom: 55px;
 }
 
+        .library div span{
+        position: relative;
+        bottom: 50px;
+}
 
 
 
@@ -508,5 +517,6 @@ footer div.hover  {
     margin-bottom: 0;
 
 }
+
 
 
