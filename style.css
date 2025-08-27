@@ -88,7 +88,7 @@ h1.title {
     background-color: #e9e2e2;
     margin: 0;
     padding-top: 30px;
-    font-size: 30px;
+    font-size: 28px;
     color: #2c4174;
     font-weight: bold;
     text-align: center;
@@ -506,4 +506,5 @@ footer a{
 
 footer div.hover  {
     margin-bottom: 0;
+
 }
