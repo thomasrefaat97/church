@@ -483,14 +483,16 @@ section.place {
 
     .library div p{
         position: relative;
-        bottom: 60px;
+        bottom: 65px;
 }
 
         .library div span{
         position: relative;
-        bottom: 52px;
+        bottom: 59px;
 }
 
+.library div{
+    height : 155px;
 
 
 /* ____________________________________________________________________/ */
@@ -517,6 +519,7 @@ footer div.hover  {
     margin-bottom: 0;
 
 }
+
 
 
 
